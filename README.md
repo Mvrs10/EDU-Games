@@ -1,48 +1,45 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>EDU Games - SRS Documentation</h1>
 
- ### 📚 [Website](http://studentweb.cencol.ca/mphan16/mathcentre_homepage.html)
+ ### 📚
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+The project is an SRS document about an educational gaming platform. This software is for students and kids to relax, learn and have fun at the same time. This software will invent a new way to support children’s learning ability with subject personalization and controls from adults.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>MS Word</b> 
+- <b>MS Visio</b>
 
-<h2>Environments Used </h2>
+<h2>Materials Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Roger Pressman - Software Engineering: A Practitioner Approach, 9th Edition</b>
+- <b>Tim Fields - Mobile and social game design : monetization methods and mechanics</b>
 
-<h2>Program walk-through:</h2>
+<h2>UML Diagrams:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Use Case Diagram: <br/>
+<img src="https://i.imgur.com/N00hdBx.png" height="80%" width="80%" alt="EDU Games"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Swimlane Diagram:  <br/>
+<img src="https://i.imgur.com/Vty1A99.png" height="80%" width="80%" alt="EDU Games"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Domain Class Diagram: <br/>
+<img src="https://i.imgur.com/PU7yZYZ.png" height="80%" width="80%" alt="EDU Games"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+State Diagram:  <br/>
+<img src="https://i.imgur.com/T5XgQPZ.png" height="80%" width="80%" alt="EDU Games"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Sequence Diagram:  <br/>
+<img src="https://i.imgur.com/SxRMUvt.png" height="80%" width="80%" alt="EDU Games"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Context Flow Diagram:  <br/>
+<img src="https://i.imgur.com/7mChMSm.png" height="80%" width="80%" alt="EDU Games"/>
 </p>
