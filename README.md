@@ -11,6 +11,7 @@ The project is an SRS document about an educational gaming platform. This softwa
 
 - <b>MS Word</b> 
 - <b>MS Visio</b>
+- <b>Figma</b>
 
 <h2>Materials Used </h2>
 
